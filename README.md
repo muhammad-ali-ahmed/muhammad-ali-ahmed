@@ -145,7 +145,7 @@
     <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
-    <a href="https://medium.com/@blurred-machine" target="_blank" rel="noopener noreferrer">
+    <a href="https://medium.com/@muhammadaliahmed_62382" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white">
     </a>
     <a href="https://www.instagram.com/its_ali.ahmed" target="_blank" rel="noopener noreferrer">
