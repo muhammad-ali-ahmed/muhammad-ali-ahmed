@@ -7,26 +7,40 @@
 
 <ul>
     [cite_start]<li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>[cite: 31].</li>
-    [cite_start]<li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>[cite: 26, 31].</li>
+    [cite_start]<li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>[cite: 31].</li>
     [cite_start]<li>🛡️ <strong>Security Governance:</strong> Leading comprehensive cloud hardening programs to ensure full compliance with internal and external audits[cite: 20, 25].</li>
-    
-    [cite_start]<li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines[cite: 17, 32].</li>
+    [cite_start]<li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines[cite: 32].</li>
     [cite_start]<li>⚡ <strong>Observability:</strong> Established enterprise-grade monitoring (Prometheus/Grafana) that reduced incident recovery time by <strong>50%</strong>[cite: 18].</li>
-    [cite_start]<li>💬 Ask me about <strong>Infrastructure as Code (Terraform/Ansible), Docker Orchestration, and Disaster Recovery</strong>[cite: 33, 37].</li>
-    [cite_start]<li>📫 How to reach me: <a href="mailto:m_aliahmed1@outlook.com"><strong>m_aliahmed1@outlook.com</strong></a> [cite: 3]</li>
-    [cite_start]<li>📄 Connect on <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops"><strong>LinkedIn</strong></a> [cite: 7]</li>
-    [cite_start]<li>🧩 Fun fact: <strong>I slashed environment setup time by ~5 hours across HRMS & CRM projects using automation scripts.</strong> [cite: 34]</li>
+    <li>💬 Ask me about <strong>Infrastructure as Code (Terraform/Ansible), Docker Orchestration, and Disaster Recovery</strong>.</li>
+    <li>📫 How to reach me: <a href="mailto:m_aliahmed1@outlook.com"><strong>m_aliahmed1@outlook.com</strong></a></li>
+    [cite_start]<li>🧩 Fun fact: <strong>I slashed environment setup time by ~5 hours across HRMS & CRM projects using automation scripts</strong>[cite: 34].</li>
 </ul>
+
+<br>
+
+<h3 align="left">🏆 Certifications</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
+    <img src="https://images.credly.com/size/340x340/badge/25298a44-8393-4550-932b-36528d2547b7/aws-certified-devops-engineer-professional.png" height="140" alt="AWS Certified DevOps Engineer - Professional">
+  </a>
+  <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
+    <img src="https://images.credly.com/size/340x340/badge/6548c208-1add-4f7e-b605-728b7880998c/aws-certified-solutions-architect-associate.png" height="140" alt="AWS Certified Solutions Architect - Associate">
+  </a>
+</p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:m_aliahmed1@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:m_aliahmed1@outlook.com">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+    </a>
 </p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ali.ahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-ahmed-devops) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadaliahmed_62382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.aliahmed0101@gmail.com) 
+<hr>
 
 <h3 align="left">Tools and Technologies:</h3>
 <p align="left">
