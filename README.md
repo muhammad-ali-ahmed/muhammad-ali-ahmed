@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Ali Ahmed 👋</h1>
-<h3 align="center">AWS Certified DevOps Engineer Professional ● Infrastructure Architect <br>Specializing in Cloud Automation, Cost Optimization, and Zero-Downtime Deployments</h3>
+<h3 align="center">AWS Certified DevOps Engineer ● Infrastructure Architect <br>Specializing in Cloud Automation, Cost Optimization, and Zero-Downtime Deployments</h3>
 
 <br>
 
@@ -107,10 +107,6 @@
 
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
-  </a>
-
-  <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana_loki/grafana_loki-icon.svg" alt="loki" width="40" height="40"/>
   </a>
 
   <a href="https://grafana.com/docs/loki/latest/clients/promtail/" target="_blank" rel="noreferrer">
