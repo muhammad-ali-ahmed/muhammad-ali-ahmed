@@ -22,10 +22,10 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AWS_Certified_DevOps_Engineer_-_Professional_badge.svg/240px-AWS_Certified_DevOps_Engineer_-_Professional_badge.svg.png" alt="AWS DevOps Professional" width="150"/>
+    <img src="https://raw.githubusercontent.com/kevinkoech357/kevinkoech357/main/images/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="150"/>
   </a>
   <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AWS_Certified_Solutions_Architect_-_Associate_badge.svg/240px-AWS_Certified_Solutions_Architect_-_Associate_badge.svg.png" alt="AWS Solutions Architect Associate" width="150"/>
+    <img src="https://raw.githubusercontent.com/kevinkoech357/kevinkoech357/main/images/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150"/>
   </a>
 </p>
 
