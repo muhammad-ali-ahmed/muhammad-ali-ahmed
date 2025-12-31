@@ -131,6 +131,7 @@
   </a>
 </p>
 <br>
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank">
@@ -149,7 +150,7 @@
   </a>
 </p>
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammad-ali-ahmed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=muhammad-ali-ahmed&theme=dark&hide_border=true)<br/>
