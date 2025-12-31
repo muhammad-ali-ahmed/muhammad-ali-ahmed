@@ -9,7 +9,6 @@
     <li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>.</li>
     <li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>.</li>
     <li>🛡️ <strong>Security Governance:</strong> Leading comprehensive cloud hardening programs to ensure full compliance with internal and external audits.</li>
-    
     <li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines.</li>
     <li>⚡ <strong>Observability:</strong> Established enterprise-grade monitoring (Prometheus/Grafana) that reduced incident recovery time by <strong>50%</strong>.</li>
     <li>💬 Ask me about <strong>Infrastructure as Code (Terraform/Ansible), Docker Orchestration, and Disaster Recovery</strong>.</li>
@@ -19,13 +18,13 @@
 
 <br>
 
-<h3 align="left">🏆 Certifications</h3>
+<h3 align="left">Certifications:</h3>
 <p align="left">
-  <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_Certified_DevOps_Engineer-Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Pro">
+  <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/badge/25298a44-8393-4550-932b-36528d2547b7/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="150" height="150"/>
   </a>
-  <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
-    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
+  <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/badge/6548c208-1add-4f7e-b605-728b7880998c/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
   </a>
 </p>
 
@@ -33,12 +32,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:m_aliahmed1@outlook.com">
-        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
-    </a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
+  </a>
 </p>
 
 <hr>
