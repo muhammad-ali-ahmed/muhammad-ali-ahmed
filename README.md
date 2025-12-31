@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Muhammad Ali Ahmed 👋</h1>
-<h3 align="center">AWS Certified DevOps Engineer ● Infrastructure Architect <br>Specializing in Cloud Automation, Cost Optimization, and Zero-Downtime Deployments</h3>
+<h3 align="center">AWS Certified DevOps Engineer ● <br>Specializing in Cloud Automation, Cost Optimization, and Zero-Downtime Deployments</h3>
 
 <br>
 
 ---
 
 <ul>
-    <li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>.</li>
+    <li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS, achieving <strong>80% uptime improvements</strong>.</li>
     <li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>.</li>
     <li>🛡️ <strong>Security Governance:</strong> Leading comprehensive cloud hardening programs to ensure full compliance with internal and external audits.</li>
     <li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines.</li>
     <li>⚡ <strong>Observability:</strong> Established enterprise-grade monitoring (Prometheus/Grafana) that reduced incident recovery time by <strong>50%</strong>.</li>
     <li>💬 Ask me about <strong>Infrastructure as Code (Terraform/Ansible), Docker Orchestration, and Disaster Recovery</strong>.</li>
-    <li>📫 How to reach me: <a href="mailto:m_aliahmed1@outlook.com"><strong>m_aliahmed1@outlook.com</strong></a></li>
+    <li>📫 How to reach me: <a href="mailto:m.aliahmed0101@gmail.com"><strong>m.aliahmed0101@gmail.com</strong></a></li>
     <li>🧩 Fun fact: <strong>I slashed environment setup time by ~5 hours across HRMS & CRM projects using automation scripts</strong>.</li>
 </ul>
 
@@ -109,10 +109,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
   </a>&nbsp;
 
-  <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana_loki/grafana_loki-icon.svg" alt="loki" width="40" height="40"/>
-  </a>&nbsp;
-
   <a href="https://grafana.com/docs/loki/latest/clients/promtail/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="promtail" width="40" height="40"/>
   </a>
@@ -152,9 +148,6 @@
     <a href="https://medium.com/@blurred-machine" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white">
     </a>
-    <a href="https://www.kaggle.com/muhammadaliahmed_62382" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white">
-    </a>
     <a href="https://www.instagram.com/its_ali.ahmed" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
@@ -167,11 +160,11 @@
 ---
 
 <p align="center">
-You have finally discovered my Github profile, so let's get connected!
+You have finally discovered my GitHub profile, so let's get connected!
 <br/>
 Please feel free to clone projects and raise issues if you think something could be better.
 <br/>
-Happy DevOps!!
+Happy DevOps!
 </p>  
 
 
