@@ -4,7 +4,6 @@
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammad-ali-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <ul>
     <li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>.</li>
@@ -19,16 +18,17 @@
 
 <br>
 
-
-<h3 align="left">Certifications:</h3>
+<h3 align="left">🏆 Certifications</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
-    <img src="https://raw.githubusercontent.com/kevinkoech357/kevinkoech357/main/images/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="150"/>
+    <img src="https://images.credly.com/size/340x340/badge/25298a44-8393-4550-932b-36528d2547b7/aws-certified-devops-engineer-professional.png" height="140" alt="AWS Certified DevOps Engineer - Professional">
   </a>
   <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
-    <img src="https://raw.githubusercontent.com/kevinkoech357/kevinkoech357/main/images/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150"/>
+    <img src="https://images.credly.com/size/340x340/badge/6548c208-1add-4f7e-b605-728b7880998c/aws-certified-solutions-architect-associate.png" height="140" alt="AWS Certified Solutions Architect - Associate">
   </a>
 </p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -148,11 +148,6 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   </a>
 </p>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammad-ali-ahmed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
