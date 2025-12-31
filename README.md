@@ -1,5 +1,28 @@
-# 💫 About Me:
-Hi there, I'm Muhammad Ali Ahmed! 👋<br>I am an AWS Certified DevOps Engineer based in Lahore, Pakistan. With over 3 years of experience, I specialize in designing robust cloud architectures, automating CI/CD pipelines, and driving operational excellence through observability and governance.<br><br>Currently, I am working as an AWS DevOps Engineer at MHI Services while pursuing my Bachelor's in Computer Sciences.<br><br>🚀 Career Highlights<br><br>Certifications: AWS Certified DevOps Engineer Professional & AWS Certified Solutions Architect Associate.<br><br>Efficiency: Automated CI/CD pipelines to accelerate deployments by 40%.<br><br>Reliability: Achieved an 80% increase in uptime through infrastructure improvements.<br><br>Incident Response: Established monitoring frameworks (Prometheus/Grafana) that reduced incident recovery time by 50%.<br><br><br>🛠️ Tech Stack & Tools<br><br>Cloud Provider: AWS (EC2, S3, RDS, Lambda, WAF, VPC, CloudFormation).<br><br>IaC & Config: Ansible, CloudFormation, Terraform principles.<br><br>CI/CD: GitHub Actions, Jenkins, Bitbucket Pipelines.<br><br>Containers & Scripting: Docker, Docker Compose, Bash, Python.<br><br>Observability: Prometheus, Grafana, AWS CloudWatch.<br><br>OS: Linux (Ubuntu, CentOS).<br><br><br>🏆 Certifications<br><br>AWS Certified DevOps Engineer – Professional (01/2025) <br><br>AWS Certified Solutions Architect – Associate (12/2025)
+<h1 align="center">Hi, I'm Muhammad Ali Ahmed 👋</h1>
+<h3 align="center">AWS Certified DevOps Engineer Professional ● Infrastructure Architect <br>Specializing in Cloud Automation, Cost Optimization, and Zero-Downtime Deployments</h3>
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+
+<ul>
+    [cite_start]<li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>[cite: 31].</li>
+    [cite_start]<li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>[cite: 26, 31].</li>
+    [cite_start]<li>🛡️ <strong>Security Governance:</strong> Leading comprehensive cloud hardening programs to ensure full compliance with internal and external audits[cite: 20, 25].</li>
+    
+    [cite_start]<li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines[cite: 17, 32].</li>
+    [cite_start]<li>⚡ <strong>Observability:</strong> Established enterprise-grade monitoring (Prometheus/Grafana) that reduced incident recovery time by <strong>50%</strong>[cite: 18].</li>
+    [cite_start]<li>💬 Ask me about <strong>Infrastructure as Code (Terraform/Ansible), Docker Orchestration, and Disaster Recovery</strong>[cite: 33, 37].</li>
+    [cite_start]<li>📫 How to reach me: <a href="mailto:m_aliahmed1@outlook.com"><strong>m_aliahmed1@outlook.com</strong></a> [cite: 3]</li>
+    [cite_start]<li>📄 Connect on <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops"><strong>LinkedIn</strong></a> [cite: 7]</li>
+    [cite_start]<li>🧩 Fun fact: <strong>I slashed environment setup time by ~5 hours across HRMS & CRM projects using automation scripts.</strong> [cite: 34]</li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:m_aliahmed1@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email" height="30" width="40" /></a>
+</p>
 
 
 ## 🌐 Socials:
