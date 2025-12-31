@@ -21,13 +21,12 @@
 <h3 align="left">🏆 Certifications</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
-    <img src="https://images.credly.com/size/340x340/badge/25298a44-8393-4550-932b-36528d2547b7/aws-certified-devops-engineer-professional.png" height="140" alt="AWS Certified DevOps Engineer - Professional">
+    <img src="https://img.shields.io/badge/AWS_Certified_DevOps_Engineer-Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Pro">
   </a>
   <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
-    <img src="https://images.credly.com/size/340x340/badge/6548c208-1add-4f7e-b605-728b7880998c/aws-certified-solutions-architect-associate.png" height="140" alt="AWS Certified Solutions Architect - Associate">
+    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
   </a>
 </p>
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
