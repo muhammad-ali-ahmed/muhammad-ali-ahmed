@@ -3,7 +3,9 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+[![](https://visitcount.itsvg.in/api?id=muhammad-ali-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <ul>
     <li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>.</li>
@@ -147,6 +149,9 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   </a>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammad-ali-ahmed&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
