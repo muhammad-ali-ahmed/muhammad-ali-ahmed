@@ -18,27 +18,30 @@
 
 <br>
 
+
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/badge/25298a44-8393-4550-932b-36528d2547b7/aws-certified-devops-engineer-professional.png" alt="AWS DevOps Professional" width="150" height="150"/>
+  <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AWS_Certified_DevOps_Engineer_-_Professional_badge.svg/240px-AWS_Certified_DevOps_Engineer_-_Professional_badge.svg.png" alt="AWS DevOps Professional" width="150"/>
   </a>
-  <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/badge/6548c208-1add-4f7e-b605-728b7880998c/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
+  <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AWS_Certified_Solutions_Architect_-_Associate_badge.svg/240px-AWS_Certified_Solutions_Architect_-_Associate_badge.svg.png" alt="AWS Solutions Architect Associate" width="150"/>
   </a>
 </p>
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="https://medium.com/" target="_blank" rel="noreferrer">
+  <a href="mailto:m_aliahmed1@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@blurred-machine" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
   </a>
 </p>
