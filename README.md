@@ -114,21 +114,23 @@
   </a>
 </p>
 <br>
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
     
-  <a href="mailto:m_aliahmed1@outlook.com" target="_blank">
+  <a href="mailto:m.aliahmed0101@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email" width="40" height="40"/>
   </a>
-  <a href="https://medium.com/@blurred-machine" target="_blank">
+  <a href="https://medium.com/@muhammadaliahmed_62382" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" width="40" height="40"/>
   </a>
   
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/its_ali.ahmed" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
   </a>
 </p>
@@ -138,4 +140,34 @@
 ![](https://github-readme-stats.vercel.app/api?username=muhammad-ali-ahmed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=muhammad-ali-ahmed&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ali-ahmed&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+    <a href="https://medium.com/@blurred-machine" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white">
+    </a>
+    <a href="https://www.kaggle.com/muhammadaliahmed_62382" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/its_ali.ahmed" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+    <a href="https://twitter.com/its_alihmed" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+</p>
+
+
+---
+
+<p align="center">
+You have finally discovered my Github profile, so let's get connected!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy DevOps!!
+</p>  
+
 
