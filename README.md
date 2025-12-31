@@ -6,14 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 <ul>
-    [cite_start]<li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>[cite: 31].</li>
-    [cite_start]<li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>[cite: 31].</li>
-    [cite_start]<li>🛡️ <strong>Security Governance:</strong> Leading comprehensive cloud hardening programs to ensure full compliance with internal and external audits[cite: 20, 25].</li>
-    [cite_start]<li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines[cite: 32].</li>
-    [cite_start]<li>⚡ <strong>Observability:</strong> Established enterprise-grade monitoring (Prometheus/Grafana) that reduced incident recovery time by <strong>50%</strong>[cite: 18].</li>
+    <li>☁️ <strong>Cloud Architecture:</strong> Designing scalable, zero-downtime architectures on AWS (EC2, S3, RDS), achieving <strong>80% uptime improvements</strong>.</li>
+    <li>💰 <strong>Cost Optimization:</strong> Expert in predictive scaling and resource rightsizing, driving a <strong>25% reduction in cloud hosting costs</strong>.</li>
+    <li>🛡️ <strong>Security Governance:</strong> Leading comprehensive cloud hardening programs to ensure full compliance with internal and external audits.</li>
+    
+    <li>🚀 <strong>CI/CD Automation:</strong> Accelerated deployment cycles by <strong>40%</strong> by engineering seamless, automated pipelines.</li>
+    <li>⚡ <strong>Observability:</strong> Established enterprise-grade monitoring (Prometheus/Grafana) that reduced incident recovery time by <strong>50%</strong>.</li>
     <li>💬 Ask me about <strong>Infrastructure as Code (Terraform/Ansible), Docker Orchestration, and Disaster Recovery</strong>.</li>
     <li>📫 How to reach me: <a href="mailto:m_aliahmed1@outlook.com"><strong>m_aliahmed1@outlook.com</strong></a></li>
-    [cite_start]<li>🧩 Fun fact: <strong>I slashed environment setup time by ~5 hours across HRMS & CRM projects using automation scripts</strong>[cite: 34].</li>
+    <li>🧩 Fun fact: <strong>I slashed environment setup time by ~5 hours across HRMS & CRM projects using automation scripts</strong>.</li>
 </ul>
 
 <br>
@@ -21,10 +22,10 @@
 <h3 align="left">🏆 Certifications</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/928c4d40-71d6-4c5d-ba2c-e6db926668b2" target="_blank">
-    <img src="https://images.credly.com/size/340x340/badge/25298a44-8393-4550-932b-36528d2547b7/aws-certified-devops-engineer-professional.png" height="140" alt="AWS Certified DevOps Engineer - Professional">
+    <img src="https://img.shields.io/badge/AWS_Certified_DevOps_Engineer-Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps Pro">
   </a>
   <a href="https://www.credly.com/badges/6b2a6125-8d4f-4985-b70e-17855d6da82a" target="_blank">
-    <img src="https://images.credly.com/size/340x340/badge/6548c208-1add-4f7e-b605-728b7880998c/aws-certified-solutions-architect-associate.png" height="140" alt="AWS Certified Solutions Architect - Associate">
+    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
   </a>
 </p>
 
@@ -33,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:m_aliahmed1@outlook.com">
         <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
@@ -41,7 +42,6 @@
 </p>
 
 <hr>
-
 <h3 align="left">Tools and Technologies:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
