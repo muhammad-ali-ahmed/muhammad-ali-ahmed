@@ -9,57 +9,56 @@ Hi there, I'm Muhammad Ali Ahmed! 👋<br>I am an AWS Certified DevOps Engineer 
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/WAF-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="50" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonec2/FF9900" height="50" alt="EC2" />
+  <img src="https://cdn.simpleicons.org/amazons3/569A31" height="50" alt="S3" />
+  <img src="https://cdn.simpleicons.org/amazonrds/527FFF" height="50" alt="RDS" />
+  <img src="https://cdn.simpleicons.org/awslambda/FF9900" height="50" alt="Lambda" />
+  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" height="50" alt="CloudWatch" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="50" alt="CloudFormation" />
+  
+  <br /><br />
 
-  <br />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" />
+  <img src="https://cdn.simpleicons.org/centos/262577" height="50" alt="CentOS" />
+  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" height="50" alt="cPanel" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/apache/D42029" height="50" alt="Apache" />
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br /><br />
 
-  <br />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" alt="Ansible" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="50" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="50" alt="Jenkins" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="50" alt="Bitbucket" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="Git" />
+  <img src="https://cdn.simpleicons.org/vagrant/1563FF" height="50" alt="Vagrant" />
 
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" />
+  <br /><br />
 
-  <br />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="Python" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="50" alt="Django" />
+  <img src="https://cdn.simpleicons.org/gunicorn/499848" height="50" alt="Gunicorn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="WordPress" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="NodeJS" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="50" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="MongoDB" />
 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br /><br />
 
-  <br />
-
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="50" alt="Prometheus" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="50" alt="Grafana" />
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" height="50" alt="Datadog" />
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="50" alt="ElasticSearch" />
 
 </div>
 
